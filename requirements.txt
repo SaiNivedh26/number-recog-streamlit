@@ -1,1 +1,9 @@
 opencv-python
+numpy
+torch
+streamlit
+streamlit-drawable-canvas
+plotly-express
+pandas
+matplotlib
+tqdm
